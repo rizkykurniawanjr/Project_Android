@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork 07.1</string>
+    <string name="ready_to_start">I am ready to start work!</string>
+    <string name="start_task">Start Task</string>
+    <string name="napping">"Napping…"</string>
+
+
+</resources>

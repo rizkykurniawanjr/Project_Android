@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HomeWork_04.5</string>
+    <string name="recipes">Recipes</string>
+    <string name="label">Recycle View</string>
+    <string name="ChocolateMintBars">Receip This : ChocolateMintBars</string>
+    <string name="LemonCake">Receip This : Lemon Cake</string>
+    <string name="BlueberryCupcakes">Receip This : BlueberryCupcakes</string>
+    <string name="FudgeWalnutBrownies">Receip This : FudgeWalnutBrownies</string>
+    <string name="BlueberryPeachCobbler">Receip This : BlueberryPeachCobbler</string>
+    <string name="TexasSheetCake">Receip This : TexasSheetCake</string>
+    <string name="EspressoCrinkles">Receip This : EspressoCrinkles</string>
+    <string name="ChocolateCherryCookies">Receip This : ChocolateCherryCookies</string>
+    <string name="VanillaCheesecake">Receip This :VanillaCheesecake</string>
+    <string name="Tiramisu">Receip This : Tiramisu</string>
+    <string name="CarrotCake">Receip This : CarrotCake </string>
+    <string name="BlueberryIceCream">Receip This : BlueberryIceCream</string>
+</resources>

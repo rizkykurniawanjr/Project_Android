@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Shopping List V2.1</string>
+    <string name="add_item">Add Item</string>
+    <string name="cheese">Cheese</string>
+    <string name="milk">Milk</string>
+    <string name="nut">Nut</string>
+    <string name="cream">Cream</string>
+    <string name="egg">Egg</string>
+    <string name="flour">Flour</string>
+</resources>
